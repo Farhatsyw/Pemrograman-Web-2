@@ -2,6 +2,7 @@
 $ball = 'purple';
   //Coba ubah ke "yellow", "blue",
 //"green", "purple", atau warna lain
+$redbox = $yellowbox = $bluebox = $greenbox = $purplebox = $colorlessbox = "";
 if ($ball == 'red') {
   $redbox = $ball;
 } elseif ($ball == 'yellow') {
